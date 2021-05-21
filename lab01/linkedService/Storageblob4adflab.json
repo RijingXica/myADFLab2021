@@ -1,0 +1,12 @@
+{
+	"name": "Storageblob4adflab",
+	"properties": {
+		"description": "Blob storage for ADF lab ",
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"serviceEndpoint": "https://storage4adfdev.blob.core.windows.net",
+			"accountKind": "StorageV2"
+		}
+	}
+}
