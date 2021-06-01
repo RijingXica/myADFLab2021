@@ -1,0 +1,18 @@
+{
+	"name": "ObjectInADLS2From",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ADLS2From",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"folderPath": "day1",
+				"fileSystem": "raw"
+			}
+		}
+	}
+}

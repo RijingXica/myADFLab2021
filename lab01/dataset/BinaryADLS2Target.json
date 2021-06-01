@@ -1,0 +1,17 @@
+{
+	"name": "BinaryADLS2Target",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ADLS2To",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileSystem": "raw"
+			}
+		}
+	}
+}

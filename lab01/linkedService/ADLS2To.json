@@ -1,0 +1,10 @@
+{
+	"name": "ADLS2To",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://rxadlstarget.dfs.core.windows.net"
+		}
+	}
+}
