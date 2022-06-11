@@ -1,0 +1,9 @@
+{
+	"name": "rijing-adf-dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6e2f03ba-7811-48fa-b997-4bf276a4b54f",
+		"tenantId": "f5407ee2-0fd3-42db-b461-c7ca916b67bb"
+	}
+}
