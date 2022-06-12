@@ -1,9 +1,0 @@
-{
-	"name": "adf-lab-2021",
-	"location": "canadacentral",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "3b9428e2-ca20-49f9-8215-f23611a0b2cc",
-		"tenantId": "f5407ee2-0fd3-42db-b461-c7ca916b67bb"
-	}
-}
